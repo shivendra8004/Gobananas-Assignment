@@ -48,4 +48,4 @@ npm run dev
 
 ## Deployment
 
-The project is deployed on vercel and can be accessed [here]().
+The project is deployed on vercel and can be accessed [here](https://gobananas.shivendra.me/).
